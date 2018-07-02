@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/monalisa/rm5_nav_ws/src/ros_arduino-indigo-devel/ros_arduino_base
+# Build directory: /home/monalisa/rm5_nav_ws/build/ros_arduino-indigo-devel/ros_arduino_base
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_ros_arduino_base_roslint_package "/home/monalisa/rm5_nav_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/monalisa/rm5_nav_ws/build/test_results/ros_arduino_base/roslint-ros_arduino_base.xml" "--working-dir" "/home/monalisa/rm5_nav_ws/build/ros_arduino-indigo-devel/ros_arduino_base" "--return-code" "/opt/ros/kinetic/share/roslint/cmake/../../../lib/roslint/test_wrapper /home/monalisa/rm5_nav_ws/build/test_results/ros_arduino_base/roslint-ros_arduino_base.xml make roslint_ros_arduino_base")
+add_test(_ctest_ros_arduino_base_roslaunch-check_launch_base_bringup.launch "/home/monalisa/rm5_nav_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/monalisa/rm5_nav_ws/build/test_results/ros_arduino_base/roslaunch-check_launch_base_bringup.launch.xml" "--return-code" "/usr/bin/cmake -E make_directory /home/monalisa/rm5_nav_ws/build/test_results/ros_arduino_base" "/opt/ros/kinetic/share/roslaunch/cmake/../scripts/roslaunch-check -o '/home/monalisa/rm5_nav_ws/build/test_results/ros_arduino_base/roslaunch-check_launch_base_bringup.launch.xml' '/home/monalisa/rm5_nav_ws/src/ros_arduino-indigo-devel/ros_arduino_base/launch/base_bringup.launch' ")

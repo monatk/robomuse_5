@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/install
+
+Name: ros_arduino_msgs
+Description: Description of ros_arduino_msgs
+Version: 0.0.0
+Cflags: -I/home/monalisa/rm5_nav_ws/install/include
+Libs: -L/home/monalisa/rm5_nav_ws/install/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/devel
+
+Name: ros_arduino_base
+Description: Description of ros_arduino_base
+Version: 0.0.0
+Cflags: -I/home/monalisa/rm5_nav_ws/devel/include -I/home/monalisa/rm5_nav_ws/src/ros_arduino-indigo-devel/ros_arduino_base/include
+Libs: -L/home/monalisa/rm5_nav_ws/devel/lib -lros_arduino_base
+Requires: roscpp geometry_msgs ros_arduino_msgs tf dynamic_reconfigure

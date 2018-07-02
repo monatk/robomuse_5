@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/install
+
+Name: robomuse5_navigation
+Description: Description of robomuse5_navigation
+Version: 0.0.0
+Cflags: -I/home/monalisa/rm5_nav_ws/install/include
+Libs: -L/home/monalisa/rm5_nav_ws/install/lib 
+Requires: 

@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="ros_arduino_base" pkg="ros_arduino_base" type="ros_arduino_base">
+  <param name="Kp_l" type="double" value="180.0" />
+  <param name="Ki_l" type="double" value="5.0" />
+  <param name="Kd_l" type="double" value="15.0" />
+  <param name="Kp_r" type="double" value="180.0" />
+  <param name="Ki_r" type="double" value="5.0" />
+  <param name="Kd_r" type="double" value="15.0" />
+</node>
+\endverbatim
+

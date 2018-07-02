@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/install
+
+Name: robomuse_description
+Description: Description of robomuse_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/monalisa/rm5_nav_ws/install/lib 
+Requires: interactive_markers

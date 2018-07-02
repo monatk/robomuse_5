@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/install
+
+Name: robomuse5_gazebo
+Description: Description of robomuse5_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/monalisa/rm5_nav_ws/install/lib 
+Requires: 

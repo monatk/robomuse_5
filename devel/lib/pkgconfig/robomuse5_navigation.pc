@@ -1,0 +1,8 @@
+prefix=/home/monalisa/rm5_nav_ws/devel
+
+Name: robomuse5_navigation
+Description: Description of robomuse5_navigation
+Version: 0.0.0
+Cflags: -I/home/monalisa/rm5_nav_ws/src/robomuse5_navigation/include
+Libs: -L/home/monalisa/rm5_nav_ws/devel/lib 
+Requires: 
